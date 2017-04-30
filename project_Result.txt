@@ -1,0 +1,300 @@
+Movie[Birdy], review:pos
+Movie[Live and Let Die], review:neg
+Movie[A Nightmare on Elm Street 4 - The Dream Master], review:neg
+Movie[Manhattan], review:pos
+Movie[Pollyanna], review:pos
+Movie[Reality Bites], review:pos
+Movie[Patriot Games], review:pos
+Movie[Dracula], review:pos
+Movie[Gigi], review:pos
+Movie[Robocop 2], review:neg
+Movie[Supercop (Police Story 3) (Ging chaat goo si 3: Chiu kap ging chaat)], rev
+iew:pos
+Movie[Ronin], review:pos
+Movie[Raise the Red Lantern (Da hong deng long gao gao gua)], review:pos
+Movie[Working Girl], review:pos
+Movie[Extreme Measures], review:neg
+Movie[In the Army Now], review:neg
+Movie[Barbarella], review:neg
+Movie[Airheads], review:neg
+Movie[The River Wild], review:pos
+Movie[Atame! (Tie Me Up! Tie Me Down!)], review:neg
+Movie[Once Upon a Time in America], review:pos
+Movie[The Goonies], review:pos
+Movie[Dead Alive (Braindead)], review:pos
+Movie[The Devil's Own], review:pos
+Movie[Rocky IV], review:neg
+Movie[Stalags], review:neg
+Movie[Superman], review:pos
+Movie[Batman & Robin], review:neg
+Movie[Welcome to the Dollhouse], review:pos
+Movie[Some Like It Hot], review:pos
+Movie[54], review:pos
+Movie[Mildred Pierce], review:neg
+Movie[Double Team], review:pos
+Movie[My Left Foot], review:pos
+Movie[Return to Paradise], review:pos
+Movie[Sleeping Beauty], review:pos
+Movie[A Perfect World], review:pos
+Movie[Gentleman's Agreement], review:pos
+Movie[Torn Curtain], review:pos
+Movie[Stalag 17], review:neg
+Movie[Encino Man], review:neg
+Movie[ Pussycat! Kill! Kill!"], review:pos
+Movie[Casino], review:pos
+Movie[The Mighty Ducks], review:pos
+Movie[Penny Serenade], review:pos
+Movie[Get on the Bus], review:pos
+Movie[The Eighth Day (Le Huitieme Jour)], review:pos
+Movie[Blackmail], review:pos
+Movie[Broken Arrow], review:pos
+Movie[The Big Hit], review:neg
+Movie[Vegas Vacation], review:neg
+Movie[Nixon], review:pos
+Movie[Inspector Gadget], review:pos
+Movie[A Little Princess], review:pos
+Movie[I Shot Andy Warhol], review:neg
+Movie[Deuce Bigalow: Male Gigolo], review:neg
+Movie[All About My Mother], review:pos
+Movie[The Fisher King], review:pos
+Movie[American Beauty], review:pos
+Movie[Around the World in 80 Days], review:pos
+Movie[Beauty and the Beast], review:pos
+Movie[GoldenEye], review:pos
+Movie[A Soldier's Daughter Never Cries], review:pos
+Movie[Star Trek: The Motion Picture], review:pos
+Movie[Forbidden Planet], review:neg
+Movie[Number Seventeen (Number 17)], review:neg
+Movie[Alien3], review:neg
+Movie[Sleepover], review:neg
+Movie[Toy Story], review:pos
+Movie[Someone to Watch over Me], review:pos
+Movie[Blade Runner], review:pos
+Movie[Evil Angels (A Cry in the Dark)], review:pos
+Movie[The Great White Hype], review:pos
+Movie[Denise Calls Up], review:pos
+Movie[All That Jazz], review:pos
+Movie[ Horrible Life of Leni Riefenstahl"], review:pos
+Movie[Citizen Ruth], review:pos
+Movie[Getting Away With Murder], review:neg
+Movie[A Simple Plan], review:pos
+Movie[The Celluloid Closet], review:pos
+Movie[Paths of Glory], review:pos
+Movie[Marvin's Room], review:pos
+Movie[Contact], review:pos
+Movie[The Proposition], review:pos
+Movie[The Life of Emile Zola], review:pos
+Movie[The African Queen], review:pos
+Movie[Poison Ivy], review:pos
+Movie[Die Hard 3: With a Vengeance], review:neg
+Movie[Splash], review:neg
+Movie[Westworld], review:pos
+Movie[Monkey Shines: An Experiment In Fear], review:pos
+Movie[The Black Cauldron], review:pos
+Movie[Leon: The Professional], review:neg
+Movie[Dial M for Murder], review:pos
+Movie[2 Days in the Valley], review:pos
+Movie[Outrageous Fortune], review:neg
+Movie[Kansas City], review:neg
+Movie[The Saint of Fort Washington], review:pos
+Movie[Mr. & Mrs. Smith], review:pos
+Movie[Run Lola Run (Lola rennt)], review:pos
+Movie[End of Days], review:neg
+Movie[The Lady Eve], review:neg
+Movie[BASEketball], review:neg
+Movie[Pinocchio], review:pos
+Movie[Revolutionary Road], review:pos
+Movie[Histoires extraordinaires (Spirits of the Dead)], review:pos
+Movie[Bob Roberts], review:pos
+Movie[French Kiss], review:pos
+Movie[Wes Craven's New Nightmare], review:pos
+Movie[Wayne's World 2], review:pos
+Movie[Amistad], review:pos
+Movie[Rocky III], review:pos
+Movie[Alice in Wonderland], review:pos
+Movie[Judgment Night], review:pos
+Movie[The Quick and the Dead], review:pos
+Movie[The Wild Bunch], review:pos
+Movie[Vibes], review:pos
+Movie[Mortal Kombat: Annihilation], review:neg
+Movie[The Tigger Movie], review:pos
+Movie[The Ice Storm], review:pos
+Movie[Princess Caraboo], review:pos
+Movie[Single White Female], review:neg
+Movie[Shall We Dance? (Shall We Dansu?)], review:pos
+Movie[Very Bad Things], review:neg
+Movie[Eat Drink Man Woman (Yin shi nan nu)], review:pos
+Movie[Mad City], review:pos
+Movie[Requiem for a Dream], review:pos
+Movie[Jakob the Liar], review:neg
+Movie[Albino Alligator], review:pos
+Movie[In the Mouth of Madness], review:neg
+Movie[Back to the Future Part III], review:pos
+Movie[Spawn], review:pos
+Movie[Where's Marlowe], review:pos
+Movie[Analyze This], review:pos
+Movie[200 Cigarettes], review:neg
+Movie[Lawnmower Man 2 - Jobe's War (Lawnmower Man 2: Beyond Cyberspace)], review
+:pos
+Movie[Saving Private Ryan], review:pos
+Movie[Das Boot (The Boat)], review:pos
+Movie[The Sixth Sense], review:pos
+Movie[Solo], review:pos
+Movie[The Innocents], review:pos
+Movie[The Natural], review:pos
+Movie[Manny & Lo], review:pos
+Movie[The Devil's Advocate], review:neg
+Movie[The Last Time I Saw Paris], review:pos
+Movie[A River Runs Through It], review:pos
+Movie[Trainspotting], review:pos
+Movie[Gojira], review:pos
+Movie[Hurlyburly], review:neg
+Movie[Howard the Duck], review:neg
+Movie[Dumbo], review:pos
+Movie[Live Flesh (Carne tremula)], review:pos
+Movie[Night on Earth], review:pos
+Movie[The Last Temptation of Christ], review:pos
+Movie[Quiz Show], review:pos
+Movie[Amadeus], review:pos
+Movie[That Thing You Do!], review:pos
+Movie[Power of Nightmares: The Rise of the Politics of Fear], review:pos
+Movie[Dead Man], review:pos
+Movie[Murder in the First], review:pos
+Movie[Paradise Road], review:pos
+Movie[The Saragossa Manuscript], review:pos
+Movie[High School Musical 3: Senior Year], review:pos
+Movie[Groundhog Day], review:pos
+Movie[Thieves (Les Voleurs)], review:neg
+Movie[Donnie Brasco], review:pos
+Movie[Firewalker], review:neg
+Movie[Matewan], review:pos
+Movie[Trust the Man], review:neg
+Movie[Freaky Friday], review:pos
+Movie[Killer's Kiss], review:pos
+Movie[Mystery Science Theater 3000: The Movie], review:neg
+Movie[Can Mr. Smith Get to Washington Anymore], review:pos
+Movie[The Adventures of Pinocchio], review:neg
+Movie[Patch Adams], review:pos
+Movie[The Waterboy], review:neg
+Movie[Tommy], review:neg
+Movie[Matilda], review:pos
+Movie[Shadowlands], review:pos
+Movie[Living in Oblivion], review:pos
+Movie[2 Days in Paris], review:pos
+Movie[A Zed and Two Noughts], review:pos
+Movie[Booty Call], review:pos
+Movie[Raining Stones], review:pos
+Movie[Rope], review:neg
+Movie[Wide Awake], review:neg
+Movie[Virus], review:neg
+Movie[The Amazing Panda Adventure], review:pos
+Movie[Office Space], review:pos
+Movie[In Cold Blood], review:pos
+Movie[Star Trek V - The Final Frontier], review:neg
+Movie[The Lost Weekend], review:pos
+Movie[Chill Factor], review:neg
+Movie[Jailbait], review:neg
+Movie[Wing Commander], review:neg
+Movie[The Omen], review:neg
+Movie[The Quiet Man], review:pos
+Movie[Open Your Eyes (Abre los ojos) (Permanent Midnight)], review:neg
+Movie[His Girl Friday], review:pos
+Movie[The Englishman Who Went up a Hill But Came Down A Mountain], review:pos
+Movie[Gridlock'd], review:pos
+Movie[Bicentennial Man], review:pos
+Movie[Milk Money], review:neg
+Movie[The Assignment], review:pos
+Movie[Alice et Martin (Alice and Martin)], review:pos
+Movie[Spy Hard], review:pos
+Movie[That Old Feeling], review:pos
+Movie[Blue Velvet], review:neg
+Movie[Ghost], review:pos
+Movie[8 1/2], review:pos
+Movie[10 Things I Hate About You], review:pos
+Movie[Universal Soldier], review:pos
+Movie[Harriet the Spy], review:neg
+Movie[Armageddon], review:neg
+Movie[2 ou 3 Choses que je Sais d'Elle (Two or Three Things I Know About Her)],
+review:pos
+Movie[An American Werewolf in London], review:neg
+Movie[Muppets From Space], review:pos
+Movie[ Don't They?"], review:pos
+Movie[Waiting for Guffman], review:pos
+Movie[Bed of Roses], review:pos
+Movie[Once Upon a Time in the West], review:pos
+Movie[Mrs. Miniver], review:pos
+Movie[GoodFellas], review:pos
+Movie[Rush Hour], review:pos
+Movie[The Outsiders], review:pos
+Movie[A Map of the World], review:pos
+Movie[The X-Files - Fight the Future], review:neg
+Movie[Slam], review:pos
+Movie[Menace II Society], review:pos
+Movie[Days of Thunder], review:neg
+Movie[The Fox and the Hound], review:pos
+Movie[The Matrix], review:neg
+Movie[King Kong], review:pos
+Movie[Beyond Rangoon], review:pos
+Movie[Le Notti di Cabiria (Nights of Cabiria)], review:pos
+Movie[Stir of Echoes], review:pos
+Movie[For Love of the Game], review:pos
+Movie[Prefontaine], review:pos
+Movie[In the Heat of the Night], review:pos
+Movie[Romeo Is Bleeding], review:pos
+Movie[Naked], review:pos
+Movie[ Interrupted"], review:pos
+Movie[Random Hearts], review:pos
+Movie[Can't Hardly Wait], review:pos
+Movie[The Air Up There], review:pos
+Movie[The Piano], review:pos
+Movie[When We Were Kings], review:pos
+Movie[Bad Company], review:neg
+Movie[Anywhere But Here], review:pos
+Movie[La Scorta], review:pos
+Movie[Fire Down Below], review:pos
+Movie[Bad Boys], review:neg
+Movie[A League of Their Own], review:pos
+Movie[Hands on a Hard Body], review:pos
+Movie[Star Trek - First Contact], review:pos
+Movie[Three to Tango], review:neg
+Movie[Young Frankenstein], review:neg
+Movie[Tarzan], review:pos
+Movie[The Rugrats Movie], review:pos
+Movie[Goldfinger], review:pos
+Movie[Paulie], review:pos
+Movie[Dragonheart], review:pos
+Movie[Shakespeare in Love], review:pos
+Movie[Pushing Tin], review:pos
+Movie[000 Leagues Under The Sea"], review:pos
+Movie[Sid & Nancy], review:pos
+Movie[Holiday Inn], review:pos
+Movie[ Early September"], review:pos
+Movie[Repulsion], review:pos
+Movie[Man of the Year], review:neg
+Movie[Lost Highway], review:pos
+Movie[Mujeres al Borde de un Ataque de Nervios (Women on the Verge of a Nervous
+Breakdown)], review:neg
+Movie[Soylent Green], review:pos
+Movie[Live Free or Die Hard], review:neg
+Movie[Rain Man], review:pos
+Movie[The Wood], review:pos
+Movie[The Bride of Frankenstein], review:pos
+Movie[Roman Holiday], review:pos
+Movie[Sliding Doors], review:pos
+Movie[Wings of Courage], review:pos
+Movie[The House of Yes], review:pos
+Movie[Titus], review:pos
+Movie[Creepshow 2], review:neg
+Movie[Rushmore], review:pos
+
+C:\Users\axc152830\Downloads\project>python sentiment.py aclImdb
+Start to train pos data
+Start to train neg data
+Start to test data using Native Bayes
+Testing class [pos], the accuracy [Native Bayes] is: 74.912
+Testing class [neg], the accuracy [Native Bayes] is: 87.464
+Start to test data using TF-IDF
+Testing class [pos], the accuracy [TF-IDF] is: 92.816
+Testing class [neg], the accuracy [TF-IDF] is: 72.728
+
+C:\Users\axc152830\Downloads\project>
